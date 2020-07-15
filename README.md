@@ -1,5 +1,6 @@
 
 # NPVI add-on for igaFEAP
+[![DOI](https://zenodo.org/badge/279654786.svg)](https://zenodo.org/badge/latestdoi/279654786)
 
 *Latest version: v1.4 (14 July 2020)*
 
