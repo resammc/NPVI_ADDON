@@ -22,7 +22,7 @@ More info:
 [NPVI Page in FEAP Forum](http://feap.berkeley.edu/forum/index.php?topic=1542.0)
 
 # Contact
-Reporting bugs and well as suggesting new features are always welcome. Contact me at resam.makvandi@ovgu.de
+Reporting bugs as well as suggesting new features are always welcome. Contact me at resam.makvandi@ovgu.de
 
 # Version history
 ## Ver. 1.0
