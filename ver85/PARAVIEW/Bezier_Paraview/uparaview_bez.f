@@ -230,11 +230,11 @@
       write(plu,1010) '</Cells>'                ! Close Cell Section
 
 
-      write(plu,1010) '<PointData>'             ! Start Point Data
+      !write(plu,1010) '<PointData>'             ! Start Point Data
+      write(plu,1040)
 
 !     Output weights
 ! ======================================================================
-      !write(plu,1040)
       write(plu,1050) 'Float64', 'RationalWeights'
       do i = 1,numnp
         write(plu,2000) w(i)
